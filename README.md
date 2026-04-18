@@ -1,2 +1,3 @@
 # Wajan
-Studying new computer skills
+Learning software programming / Software Engineering skills
+Starting with Git and GitHub
